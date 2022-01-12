@@ -1,0 +1,10 @@
+C:\Users\rootbeerman77\source\repos\FoodPicker\FoodPicker\bin\Debug\FoodPicker.exe.config
+C:\Users\rootbeerman77\source\repos\FoodPicker\FoodPicker\bin\Debug\FoodPicker.exe
+C:\Users\rootbeerman77\source\repos\FoodPicker\FoodPicker\bin\Debug\FoodPicker.pdb
+C:\Users\rootbeerman77\source\repos\FoodPicker\FoodPicker\obj\Debug\FoodPicker.csproj.AssemblyReference.cache
+C:\Users\rootbeerman77\source\repos\FoodPicker\FoodPicker\obj\Debug\FoodPicker.Form1.resources
+C:\Users\rootbeerman77\source\repos\FoodPicker\FoodPicker\obj\Debug\FoodPicker.Properties.Resources.resources
+C:\Users\rootbeerman77\source\repos\FoodPicker\FoodPicker\obj\Debug\FoodPicker.csproj.GenerateResource.cache
+C:\Users\rootbeerman77\source\repos\FoodPicker\FoodPicker\obj\Debug\FoodPicker.csproj.CoreCompileInputs.cache
+C:\Users\rootbeerman77\source\repos\FoodPicker\FoodPicker\obj\Debug\FoodPicker.exe
+C:\Users\rootbeerman77\source\repos\FoodPicker\FoodPicker\obj\Debug\FoodPicker.pdb
